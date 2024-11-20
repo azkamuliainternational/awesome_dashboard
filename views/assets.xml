@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <data>
+        <template id="awesome_dashboard_assets_backend" inherit_id="web.assets_backend" name="assets backend">
+            <xpath expr="script[last()]" position="after">
+                <script type="text/javascript" src="/awesome_dashboard/static/src/dashboard_file.js"/>
+             <!-- agar bisa menambahkan tailwind css -->
+             <script src="https://cdn.tailwindcss.com"></script>
+            </xpath>
+        </template>
+    </data>
+</odoo>

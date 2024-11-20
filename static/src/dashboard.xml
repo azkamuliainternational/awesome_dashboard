@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+
+    <t t-name="dashboard">
+         <div class="p-6 bg-blue-500 text-white">
+        <h1 class="text-3xl font-bold">Welcome to the Awesome Dashboard</h1>
+        <p class="mt-4">This is styled with Tailwind CSS!</p>
+    </div>
+    </t>
+
+</templates>
