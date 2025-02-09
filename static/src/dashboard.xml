@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <templates xml:space="preserve">
 
-    <t t-name="dashboard">
+    <t t-name="qwebdashboard">
 
 <div class="bg-green-50 pt-4 sm:pt-4 dark:bg-gray-800">
   <div class="flex items-center justify-center space-x-4 dark:bg-gray-900">

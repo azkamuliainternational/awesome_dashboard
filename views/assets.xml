@@ -5,6 +5,7 @@
         <template id="awesome_dashboard_assets_backend" inherit_id="web.assets_backend" name="assets backend">
             <xpath expr="script[last()]" position="after">
                 <script type="text/javascript" src="/awesome_dashboard/static/src/dashboard_file.js"/>
+                <script type="text/javascript" src="/awesome_dashboard/static/src/chart_renderer.js"/>
              <!-- agar bisa menambahkan tailwind css -->
              <script src="https://cdn.tailwindcss.com"></script>
              <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
